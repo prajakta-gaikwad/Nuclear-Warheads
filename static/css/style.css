@@ -1,0 +1,92 @@
+﻿html, body{
+  padding: 0;
+  margin: 0;
+}
+html{
+  height: 100%;
+}
+body{
+  min-height: 100%;
+}
+.column {
+            float: left;
+            width: 11.11%;
+            padding: 5px;
+        }
+
+        /* Clearfix (clear floats) */
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        figure {
+    display: inline-block;
+    //border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+    }
+    figure img {
+    vertical-align: top;
+    }
+    figure img:hover{
+ cursor: pointer;
+ webkit-filter: blur(1.5px); /* Chrome, Safari, Opera */
+    filter: blur(1.5px);
+}
+    figure figcaption {
+    //border: 1px dotted blue;
+    text-align: center;
+    font-weight: 600;
+    }
+
+    .container {
+    width: 1200px;
+    overflow: auto;
+}
+
+
+.navbar {
+    background-color: #2c3e50;
+    margin:0;
+}
+
+.nav-pills {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    /*background-color: #2c3e50;*/
+    /*background-color: #2ecc71;*/
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #2ecc71;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #2ecc71;
+}
+
+.navbar-custom {
+    padding-top: 20px;
+}
+
+.nav a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+  /*padding: 14px 14px;*/
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+

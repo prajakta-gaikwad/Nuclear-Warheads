@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Flask Plotlyjs Example</title>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="../static/css/style.css" type="text/css">
+    <link rel="shortcut icon" href="../static/images/favicon.ico">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   
+
+</head>
+
+
+<body>
+        <nav class="navbar navbar-static-top" role="navigation">
+                <div class="container-fluid">
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> -->
+                    <ul class="nav nav-pills pull-left">
+                      <li class="active"><a href="/">Home</a></li>
+                      <li><a href="/slider">charts1</a></li>
+                    </ul>
+                    
+                    <ul class="nav nav-pills pull-left">
+                      <li><a href="/map">Charts2</a></li>
+                      <li><a href="/news">Latest News!</a></li>
+                        
+                    </ul>
+                    <ul class="nav nav-pills pull-right">
+                        <li><a href="https://github.com/prajakta-gaikwad/World-Nuclear-Powers"><img src="../static/images/octocat.jpg" width="50" height="50" /></a></li>
+                    </ul>    
+                        <!-- </div> /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+              </nav>
+        <div class="container" style="background-color:#D1E8E2;color:#116466">
+                <div class="jumbotron" style="background-color:#D1E8E2;">
+                  <h1>NUCLEAR WEAPONS</h1>      
+                  <p style="color:#935347;">A quarter century after the end of the Cold War, the world’s combined stockpiles of nuclear weapons remain at unacceptably high levels.
+
+                        Hans Kristensen and Robert Norris of the Federation of American Scientists are the leading experts in estimating the size of global nuclear weapons inventories. This website is a compilation of their estimates and analysis. </p>
+                </div>
+                  
+        </div>
+
+
+
+        <div class="container">
+            <div id="myDiv"></div>
+            <div class="row">
+                <div class="column">
+                    <figure>
+                        <img id="global" onclick="getData(this.id)" src="../static/images/global.png" alt="Global" style="width:70px;height:60px;">
+                        <figcaption>GLOBAL</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="us" onclick="getData(this.id)" src="../static/images/us.jpg" alt="United States" style="width:70px;height:60px;">
+                        <figcaption>US</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="russia" onclick="getData(this.id)" src="../static/images/russia.jpg" alt="Russia" style="width:70px;height:60px;">
+                        <figcaption>RUSSIA</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="uk" onclick="getData(this.id)" src="../static/images/uk.jpg" alt="United Kingdom" style="width:70px;height:60px;">
+                        <figcaption>UK</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="france" onclick="getData(this.id)" src="../static/images/france.jpg" alt="France" style="width:70px;height:60px;">
+                        <figcaption>FRANCE</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="china" onclick="getData(this.id)" src="../static/images/china.jpg" alt="China" style="width:70px;height:60px;">
+                        <figcaption>CHINA</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="israel" onclick="getData(this.id)" src="../static/images/israel.png" alt="Israel" style="width:70px;height:60px;">
+                        <figcaption>ISRAEL</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="india" onclick="getData(this.id)" src="../static/images/india.png" alt="India" style="width:70px;height:60px;">
+                        <figcaption>INDIA</figcaption>
+                    </figure>
+                </div>
+                <div class="column">
+                    <figure>
+                        <img id="pakistan" onclick="getData(this.id)" src="../static/images/pak.png" alt="Pakistan" style="width:70px;height:60px;">
+                        <figcaption>PAKISTAN</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+   
+
+        <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+        
+
+
+</body>
+
+</html>

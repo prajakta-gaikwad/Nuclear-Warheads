@@ -1,0 +1,1503 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.94096,50.612431 ]
+    },
+    "properties": {
+    "countries":"Belgium",
+    "Base/location":"Kline Brogel AB",
+    "Region":"Limburg",
+    "Weapon system":"B61-3/4",
+    "Remarks":"US bombs for delivery by Belgian F-16s of the 10th Fighter Wing. Weapons in custody of US 701st MUNSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.472214,35.64249 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"22 Base (Baoji area)",
+    "Region":"Shaanxi",
+    "Weapon system":"Various",
+    "Remarks":"Central warhead storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.310669,41.097481 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"51 Base (Shenyang area)",
+    "Region":"Liaoning and Shandong",
+    "Weapon system":"DF-21/DF-31 SSMs",
+    "Remarks":"Regional storage site for 806, 810, 816, and 828 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.924896,30.600677 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"52 Base (Huangshan and Tunxi areas)",
+    "Region":"Anhui, Jiangxi, Zhejiang",
+    "Weapon system":"DF-15/DF-21 SSMs",
+    "Remarks":"Regional warhead storage site for 807, 811, 815, 817, 819, and 820 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.864143,25.181129 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"53 Base (Kunming and Liuzhou areas)",
+    "Region":"Yunnan, Guangxi",
+    "Weapon system":"DF-21 SSMs",
+    "Remarks":"Regional warhead storage site for 802, 808, and 821 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.484016,33.875408 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"54 Base (Luoyang area)",
+    "Region":"Henan",
+    "Weapon system":"DF-4, DF-5A/B, DF-26, DF-31A SSMs",
+    "Remarks":"Regional warhead storage site for 801, 804, 813, and 827 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.484016,33.875408 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"55 Base (Huaihua area)",
+    "Region":"Hunan",
+    "Weapon system":"DF-4, DF-5A/B, DF-31A SSMs",
+    "Remarks":"Regional warhead storage site for 803, 805, and 814 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.28611,35.751835 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"56 Base (Xining area)",
+    "Region":"Gansu and Qinghai",
+    "Weapon system":"DF-21 and DF-31A SSMs",
+    "Remarks":"Regional storage site for 809, 812, and 823 Missile Brigades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.924896,35.893955 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"Jianggezhuang NSB area",
+    "Region":"Shandong",
+    "Weapon system":"JL-2 SLBMs",
+    "Remarks":"Possible warhead storage site for JL-2 SLBMs and Jin SSBNsb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.805473,30.263803 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"Mianyang",
+    "Region":"Sichuan",
+    "Weapon system":"Various",
+    "Remarks":"Warhead design. CAEP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.805473,30.263803 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"Pingtung area",
+    "Region":"Sichuan",
+    "Weapon system":"Various",
+    "Remarks":"Nuclear weapons fabrication. Possible underground storage site deep in the mountains near Mianyang (Institute of Materials)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.949684,19.566395 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"Longpo (Yulin) NSB area",
+    "Region":"Hainan",
+    "Weapon system":"JL-2 SLBMs",
+    "Remarks":"Possible warhead storage site for JL-2 SLBMs on Jin SSBNs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.805473,30.263803 ]
+    },
+    "properties": {
+    "countries":"China",
+    "Base/location":"Zitong area",
+    "Region":"Sichuan",
+    "Weapon system":"Various",
+    "Remarks":"Warhead assembly, disassembly, and dismantlement. Possibly China’s “Pantex Plant”c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.667267,34.158852 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Avord AB",
+    "Region":"Centre",
+    "Weapon system":"TNA, ASMPA ALCM",
+    "Remarks":"Storage and maintenance site for ASMPA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.99421,47.278111 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Centre d’Etudes de Valduc (Lery, north of Dijon)",
+    "Region":"Bourgogne",
+    "Weapon system":"TN75, TNA, TNO",
+    "Remarks":"Warhead assembly, disassembly, and dismantlement"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.68221,47.002789 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Ile Longue NSB",
+    "Region":"Bretagne",
+    "Weapon system":"TN75, TNO (replacing TN75), M51 SLBMs",
+    "Remarks":"For 4 Triomphant-class SSBNs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7294,46.892181 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Istres AB",
+    "Region":"Provence",
+    "Weapon system":"TNA, ASMPA ALCM",
+    "Remarks":"For Mirage-2000N fighter-bombers. To be replaced with Rafale K3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.36047,49.49545 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Saint-Dizier AB",
+    "Region":"Champagne-Ardenne",
+    "Weapon system":"TNA, ASMPA ALCM",
+    "Remarks":"For Rafale K3 fighter-bombers. Might also store weapons for Rafale MK3 on Charles de Gaulle aircraft carrier based in Toulon NB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.68221,47.002789 ]
+    },
+    "properties": {
+    "countries":"France",
+    "Base/location":"Saint-Jean, south of Ile Longue",
+    "Region":"Bretagne",
+    "Weapon system":"TN75, TNO (replacing TN75)",
+    "Remarks":"Warhead storage site for M51 SLBMs at nearby SSBN base"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.308953,50.118347 ]
+    },
+    "properties": {
+    "countries":"Germany",
+    "Base/location":"Büchel AB",
+    "Region":"Rheinland-Pfalz",
+    "Weapon system":"B61-3/4",
+    "Remarks":"US bombs for delivery by German PA-200 Tornados of the 33rd Tactical Air Force Squadron. Weapons in custody of US 702nd MUNSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.341217,31.147129 ]
+    },
+    "properties": {
+    "countries":"India",
+    "Base/location":"Chandighar Plant",
+    "Region":"Punjab",
+    "Weapon system":"Various",
+    "Remarks":"Possible warhead production"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.217934,27.023804 ]
+    },
+    "properties": {
+    "countries":"India",
+    "Base/location":"Jodhpur facility",
+    "Region":"Rajasthan",
+    "Weapon system":"Prithvi/Agni SSMs",
+    "Remarks":"Potential storage facility for Prithvi and/or Agni SSMs and/or warheads"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.891806,23.041173 ]
+    },
+    "properties": {
+    "countries":"India",
+    "Base/location":"Unknown Air Force storage facilitiese",
+    "Region":"Unknown",
+    "Weapon system":"Bombs",
+    "Remarks":"For potential use by Jaguar IS at Ambala and Gorakhpur ABs and Mirage 2000H at Gwalior AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.891806,23.041173 ]
+    },
+    "properties": {
+    "countries":"India",
+    "Base/location":"Unknown Army storage facilitiesf",
+    "Region":"Unknown",
+    "Weapon system":"Prithvi/Agni SSMs",
+    "Remarks":"For use by 222nd and 333rd Missile Groups (Prithvi), and 334th and 335th Missile Groups (Agni)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.891806,23.041173 ]
+    },
+    "properties": {
+    "countries":"India",
+    "Base/location":"Unknown Navy facilityg",
+    "Region":"Unknown",
+    "Weapon system":"Dhanush ShLBM, K-15 SLBM",
+    "Remarks":"For use by 2 Sukanya patrol ships and 1 Arihant SSBN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.11998,46.114391 ]
+    },
+    "properties": {
+    "countries":"Italy",
+    "Base/location":"Aviano AB",
+    "Region":"Friuli-Venezia Giulia",
+    "Weapon system":"B61-3/4",
+    "Remarks":"For delivery by US F-16s of the 31st Fighter Wing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9636,45.657581 ]
+    },
+    "properties": {
+    "countries":"Italy",
+    "Base/location":"Ghedi AB",
+    "Region":"Lombardia",
+    "Weapon system":"B61-3/4",
+    "Remarks":"US bombs for delivery by Italian PA-200 Tornados of the 6th Fighter Wing. Weapons in custody of US 704th MUNSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.814642,31.46706 ]
+    },
+    "properties": {
+    "countries":"Israel",
+    "Base/location":"Dimona site",
+    "Region":"?",
+    "Weapon system":"Various",
+    "Remarks":"Negev Nuclear Research Center. Plutonium, tritium, and warhead production"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.814642,31.46706 ]
+    },
+    "properties": {
+    "countries":"Israel",
+    "Base/location":"Soreq Nuclear Research Center",
+    "Region":"?",
+    "Weapon system":"Various",
+    "Remarks":"Possible warhead design, fabrication, and maintenance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.814642,31.46706 ]
+    },
+    "properties": {
+    "countries":"Israel",
+    "Base/location":"Sdot Micha missile base",
+    "Region":"?",
+    "Weapon system":"Jericho II SSMs",
+    "Remarks":"25–50 mobile MRBMs in caves. Warhead components potentially on base or at separate depot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.814642,31.46706 ]
+    },
+    "properties": {
+    "countries":"Israel",
+    "Base/location":"Nevatim AB",
+    "Region":"?",
+    "Weapon system":"Bombs",
+    "Remarks":"For potential use by F-16A/B fighter-bombers. Bomb components probably at separate depot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.814642,31.46706 ]
+    },
+    "properties": {
+    "countries":"Israel",
+    "Base/location":"Tel Nof AB",
+    "Region":"?",
+    "Weapon system":"Bombs",
+    "Remarks":"For potential use by F-16I and/or F-15I fighter-bombers. Bomb components probably at separate depot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.11875,51.52584 ]
+    },
+    "properties": {
+    "countries":"Netherlands",
+    "Base/location":"Volkel AB",
+    "Region":"Noord-Brabant",
+    "Weapon system":"B61-3/4",
+    "Remarks":"US bombs for delivery by Dutch F-16s of the 1st Fighter Wing. Weapons in custody of US 703rd MUNSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.524712,25.894302 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Akro Garrison",
+    "Region":"Sindh",
+    "Weapon system":"Possibly Babur GLCM",
+    "Remarks":"Possible underground weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.355499,30.864111 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Gujranwala Garrison",
+    "Region":"Punjab",
+    "Weapon system":"Possibly NASR SSM",
+    "Remarks":"Possible weapons storage with components in remote depot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65.563744,28.48033 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Khuzdar Garrison",
+    "Region":"Balochistan",
+    "Weapon system":"Possibly Shaheen-2 SSM",
+    "Remarks":"Possible underground weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.524712,25.894302 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Masroor Depot (Karachi)",
+    "Region":"Sindh",
+    "Weapon system":"Bombs",
+    "Remarks":"Potential storage of bombs for Mirage Vs at Masroor AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.355499,30.864111 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"National Development Complex (Fatehjang)",
+    "Region":"Punjab",
+    "Weapon system":"SSMs",
+    "Remarks":"SSM launcher assembly and potential warhead component storage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.524712,25.894302 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Pano Akil Garrison",
+    "Region":"Sindh",
+    "Weapon system":"Possibly Shaheen-1, Ghaznavi, or NASR SSM",
+    "Remarks":"Possible weapons storage with components in remote depot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.355499,30.864111 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Sargodha Depot",
+    "Region":"Punjab",
+    "Weapon system":"Possibly SSM and bombs",
+    "Remarks":"Possible storage site of bombs for F-16s at nearby Sargodha AB and warheads for SSMsj"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.667328,-25.56226 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Tarbala Underground Depot",
+    "Region":"Khyber Pakhtunkhwa",
+    "Weapon system":"Various",
+    "Remarks":"Potential warhead storage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.355499,30.864111 ]
+    },
+    "properties": {
+    "countries":"Pakistan",
+    "Base/location":"Wah Ordnance Facility",
+    "Region":"Punjab",
+    "Weapon system":"Various",
+    "Remarks":"Possible warhead production, disassembly, and dismantlement facility"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.072983,48.48082 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Alekseyevka-Mongokhto AB",
+    "Region":"Khabarovsk",
+    "Weapon system":"Depth bombs",
+    "Remarks":"For Tu-142 naval aviation. Weapons storage site southeast of runway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.48522,52.54626 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Barnaul Missile Division",
+    "Region":"Altai Krai",
+    "Weapon system":"SS-25 ICBMs",
+    "Remarks":"Warheads for 36 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.305016,52.286976 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Belaya AB",
+    "Region":"Irkutsk",
+    "Weapon system":"AS-4, bombs",
+    "Remarks":"For Tu-22M3 bombers. Weapons storage site west of runway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.208881,51.675495 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Borisoglebsk (Voronezh-45)",
+    "Region":"Voronezh",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.617298,55.755825 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Borovsk-1",
+    "Region":"Moscow",
+    "Weapon system":"ABM",
+    "Remarks":"Warheads for Moscow ABM system"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.709145,44.986402 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Chazma (Abrek) Bay",
+    "Region":"Primorsky",
+    "Weapon system":"SLBMs/SLCMs/ASWs",
+    "Remarks":"Storage site of warheads for SLBMs and other naval weapons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.883384,59.218013 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Chebsara (Vologda-20)",
+    "Region":"Vologda",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.972442,56.012626 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Dodonovo (Krasnoyarsk-26, sometimes referred to as Shivera)",
+    "Region":"Krasnoyarsk",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.102082,51.771534 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Dombarovsky Missile Division",
+    "Region":"Orenburg",
+    "Weapon system":"SS-18 ICBMs",
+    "Remarks":"Warheads for 18 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.036481,51.532522 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Engels AB",
+    "Region":"Saratov",
+    "Weapon system":"AS-15 ASM, bombs",
+    "Remarks":"For Tu-160 Blackjack and Tu-95 Bear bombers. Weapons storage site south of base"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.412051,59.830255 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Gatchina",
+    "Region":"Leningrad",
+    "Weapon system":"Various",
+    "Remarks":"Regional weapons storage sitem"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.58778,50.59672 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Golovchino (Belgorod-22)",
+    "Region":"Belgorod",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.274519,49.942869 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Gorny",
+    "Region":"Zabaykalsky",
+    "Weapon system":"Bombs",
+    "Remarks":"Regional Air Force storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.281927,52.286655 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Irkutsk Missile Division",
+    "Region":"Irkutsk",
+    "Weapon system":"SS-25 ICBMs (upgrading to SS-27)",
+    "Remarks":"Warheads for 27 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.400511,55.160039 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Karabask (Chelyabinsk-115)",
+    "Region":"Chelyabinsk",
+    "Weapon system":"Various",
+    "Remarks":"Possible national-level weapons storage site near Chelyabinsk-70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.500887,54.720375 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Kolosovka (Kulikovo)",
+    "Region":"Kaliningrad",
+    "Weapon system":"Various",
+    "Remarks":"Regional weapons storage sitel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.07298,48.480824 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Korfovskiy (Khabarovsk-47)",
+    "Region":"Khabarovsk",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Korolev",
+    "Region":"Moscow",
+    "Weapon system":"Gazelle ABMs",
+    "Remarks":"12 Gazelle ABM interceptorsn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.263804,54.513587 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Kozelsk Missile Division",
+    "Region":"Kaluga",
+    "Weapon system":"SS-19 and SS-27 ICBMs (upgrading to SS-27)",
+    "Remarks":"Warheads for 20 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.036481,51.532522 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Krasnoarmeyskoye (Saratov-63)",
+    "Region":"Saratov",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage siteo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.650232,48.080969 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Lesnoy-4 (Sverdlovsk-45/16)",
+    "Region":"Sverdlovsk",
+    "Weapon system":"Various",
+    "Remarks":"One of Russia’s two warhead production plants. Sverdlovsk-16 is a national-level weapons storage site eight kilometers west of the Sverdlovsk-45 plant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Lytkarino",
+    "Region":"Moscow",
+    "Weapon system":"Gazelle ABMs",
+    "Remarks":"16 Gazelle ABM interceptorsp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Mozhaysk-10",
+    "Region":"Moscow",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.544235,42.746685 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Nerpichya (Zaozyorsk)",
+    "Region":"Kola",
+    "Weapon system":"Various",
+    "Remarks":"Possible storage facility for naval weapons, including for nearby Bolshaya Lopatka and Nerpichya Naval Bases"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.650232,48.080969 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Nizhniy Tagil Missile Division",
+    "Region":"Sverdlovsk",
+    "Weapon system":"SS-25 ICBMs (upgrading to SS-27)",
+    "Remarks":"Warheads for 27 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.920256,55.030958 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Novosibirsk Missile Division",
+    "Region":"Novosibirsk",
+    "Weapon system":"SS-25 ICBMs (SS-27 upgrade)",
+    "Remarks":"Warheads for 27 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.544235,42.746685 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Okolnaya (Severomorsk)",
+    "Region":"Kola",
+    "Weapon system":"Various",
+    "Remarks":"Possible storage facility for SLBMs and other naval weapons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.544235,42.746685 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Ramozero (Olenegorsk-2)",
+    "Region":"Kola",
+    "Weapon system":"Various",
+    "Remarks":"National-level storage sites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.584523,56.441994 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Rybachiy Naval Base",
+    "Region":"Kamchatka",
+    "Weapon system":"SS-N-18 and SS-N-32 SLBMs",
+    "Remarks":"Warheads for Delta III and Borei SSBNs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.354347,53.235296 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Rzhanitsa (Bryansk-18)",
+    "Region":"Bryansk",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.07298,48.480824 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Selikhino (Komsomolsk-31)",
+    "Region":"Khabarovsk",
+    "Weapon system":"Various",
+    "Remarks":"National-level weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.263804,54.513587 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Shaykovka AB",
+    "Region":"Kaluga",
+    "Weapon system":"AS-4, bombs",
+    "Remarks":"For Tu-22M3 bombers. Weapon storage site northeast of runway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.544235,42.746685 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Shchukozero",
+    "Region":"Kola",
+    "Weapon system":"Various",
+    "Remarks":"Naval weapons storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Skhodnya",
+    "Region":"Moscow",
+    "Weapon system":"Gazelle ABMs",
+    "Remarks":"16 Gazelle ABM interceptorsp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.400511,55.160039 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Snezhinsk (Chelyabinsk-70)",
+    "Region":"Chelyabinsk",
+    "Weapon system":"Various",
+    "Remarks":"Former nuclear warhead design laboratory, possibly with a weapons storage role"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Sofrino",
+    "Region":"Moscow",
+    "Weapon system":"Gazelle ABMs",
+    "Remarks":"12 Gazelle ABM interceptorsp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.262816,58.5408 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Soltsy AB",
+    "Region":"Novogorod",
+    "Weapon system":"AS-4, bombs",
+    "Remarks":"For Tu-22M3 bombers. Weapons storage site north of runway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.036481,51.532522 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Tatishchevo Missile Division",
+    "Region":"Saratov",
+    "Weapon system":"SS-27 ICBMs",
+    "Remarks":"Warheads for 60 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.978218,56.995468 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Teykovo Missile Division",
+    "Region":"Ivanovo",
+    "Weapon system":"SS-27 ICBMs",
+    "Remarks":"Warheads for 36 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.400511,55.160039 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Trekhgorny (Zlatoust-36)",
+    "Region":"Chelyabinsk",
+    "Weapon system":"Various",
+    "Remarks":"One of Russia’s two warhead production plants. National-level warhead storage site 10 km to the east"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.727722,53.400767 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Ukrainka AB",
+    "Region":"Amur",
+    "Weapon system":"AS-15 ASM, bombs",
+    "Remarks":"For Tu-95 Bear bombers. Weapons storage area east of base"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.972442,56.012626 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Uzhur Missile Division",
+    "Region":"Krasnoyarsk",
+    "Weapon system":"SS-18 ICBMs",
+    "Remarks":"Warheads for 28 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.584523,56.441994 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Vilyuchinsk",
+    "Region":"Kamchatka",
+    "Weapon system":"SS-N-18 and SS-N-32 SLBMs",
+    "Remarks":"Warheads for Delta-III and Borei SSBNs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.60946,55.76159 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Vnukovo",
+    "Region":"Moscow",
+    "Weapon system":"Gazelle ABMs",
+    "Remarks":"12 Gazelle ABM interceptorsp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.262816,58.5408 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Vypolzovo Missile Division",
+    "Region":"Novogorod/Tver",
+    "Weapon system":"SS-25 ICBMs",
+    "Remarks":"Warheads for 18 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.544235,42.746685 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Yagelnaya (Gadzhiyevo) NB",
+    "Region":"Kola",
+    "Weapon system":"SS-N-23 and SS-N-32 SLBMs",
+    "Remarks":"Warheads for Delta IV and Borei-class SSBNs. Weapons storage east of base. Might also store other naval weapons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.91324,56.58388 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Yoshkar-Ola Missile Division",
+    "Region":"Mari El",
+    "Weapon system":"SS-25 ICBMs",
+    "Remarks":"Warheads for 27 ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9401,53.79713 ]
+    },
+    "properties": {
+    "countries":"Russia",
+    "Base/location":"Zalari (Irkutsk-45)",
+    "Region":"Transbaikal",
+    "Weapon system":"Various",
+    "Remarks":"National-level warhead storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33083,36.991421 ]
+    },
+    "properties": {
+    "countries":"Turkey",
+    "Base/location":"Incirlik AB",
+    "Region":"Adana",
+    "Weapon system":"B61-3/4",
+    "Remarks":"US bombs for delivery by rotational F-16s from other US bases. No US fighter-wing permanently deployed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.17432,52.355518 ]
+    },
+    "properties": {
+    "countries":"United Kingdom",
+    "Base/location":"Aldermaston Atomic Weapons Establishment",
+    "Region":"England",
+    "Weapon system":"British Trident System",
+    "Remarks":"Warhead design. Possibly a few warheads present"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.17432,52.355518 ]
+    },
+    "properties": {
+    "countries":"United Kingdom",
+    "Base/location":"Burghfield Atomic Weapons Establishment",
+    "Region":"England",
+    "Weapon system":"British Trident System",
+    "Remarks":"Warhead assembly, disassembly, and dismantlement"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.202646,56.490669 ]
+    },
+    "properties": {
+    "countries":"United Kingdom",
+    "Base/location":"Coulport Royal Navy Ammunition Depot",
+    "Region":"Scotland",
+    "Weapon system":"British Trident System",
+    "Remarks":"National-level warhead storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.202646,56.490669 ]
+    },
+    "properties": {
+    "countries":"United Kingdom",
+    "Base/location":"Faslane Royal Navy Base",
+    "Region":"Scotland",
+    "Weapon system":"Warheads and Trident II D5 SLBMs",
+    "Remarks":"For Vanguard-class SSBNs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.740135,47.751076 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Bangor (Kitsap) NSB",
+    "Region":"Washington",
+    "Weapon system":"W76-0, W76-1, W88, Trident II D5 SLBMs",
+    "Remarks":"For eight Ohio-class SSBNs of which five to six are normally deployed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.900078,32.165623 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Kings Bay NSB",
+    "Region":"Georgia",
+    "Weapon system":"W76-0, W76-1, W88, Trident II D5 SLBM",
+    "Remarks":"For six Ohio-class SSBNs of which three to four are normally deployed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.870087,34.519939 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"KUMMSCr",
+    "Region":"New Mexico",
+    "Weapon system":"B61 (all types), W80-1, B83-1, W78-0, W87s",
+    "Remarks":"Air Force storage site with 40 bays of 300,000 square feet (28,000 square meters)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.417931,36.778259 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Lawrence Livermore National Laboratory",
+    "Region":"California",
+    "Weapon system":"(W80-1, B83-1, W87)t",
+    "Remarks":"Warhead design, surveillance, and maintenance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.870087,34.519939 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Los Alamos National Laboratory",
+    "Region":"New Mexico",
+    "Weapon system":"(B61 (all types), W76-0, W76-1, W78-0, W88)t",
+    "Remarks":"Warhead design, surveillance, and maintenance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.362564,46.879681 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Malmstrom AFB and Missile Field",
+    "Region":"Montana",
+    "Weapon system":"W78-0, W87",
+    "Remarks":"Warheads for 150 Minuteman III ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.551495,47.551495 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Minot AFB and Missile Field",
+    "Region":"North Dakota",
+    "Weapon system":"W78-0, W80-1, W87",
+    "Remarks":"Warheads for 150 Minuteman III ICBMs and ALCMs for B-52Hs of the 5th Bomb Wing (Minot) and the 2nd Bomb Wing (Barksdale)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.90181,31.968599 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Pantex Plant",
+    "Region":"Texas",
+    "Weapon system":"Various",
+    "Remarks":"Assembly, disassembly, and dismantlement of all warhead types"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.900078,32.165623 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Strategic Weapons Facility Atlantic (Kings Bay NSB)",
+    "Region":"Georgia",
+    "Weapon system":"W76-0, W76-1, W88, Trident II D5 SLBMs",
+    "Remarks":"Navy warhead storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.740135,47.751076 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Strategic Weapons Facility Pacific (Bangor NSB)",
+    "Region":"Washington",
+    "Weapon system":"W76-0, W76-1, W88, Trident II D5 SLBMs",
+    "Remarks":"Navy warhead storage site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.782066,39.550053 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Warren AFB and Missile Field",
+    "Region":"Colorado, Nebraska, Wyoming",
+    "Weapon system":"W78-0, W87",
+    "Remarks":"Warheads for 150 Minuteman III ICBMs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.831833,37.964252 ]
+    },
+    "properties": {
+    "countries":"United States",
+    "Base/location":"Whiteman AFB",
+    "Region":"Missouri",
+    "Weapon system":"B61-7/11, B83-1",
+    "Remarks":"For B-2As of the 509th Bomb Wing"
+    }
+  }
+]
+}
